@@ -7,4 +7,4 @@ texte = texte.replace("exemple", "représente")
 
 print(texte)
 
-print(texte[::-1])
+print(texte[::-1]) # Pour inversre le sens de lecture
