@@ -7,16 +7,10 @@
 #               Si vous êtes perfectionnistes faites vous plaisir.
 liste = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-A = []
-A.append(liste)
-A = A*10
 
-# TODO : FAUX A REFAIRE
-print(A[0])
-print(A[1])
-for i in range(2, len(A)):
-    for y in range(0,10):
-        A[i][y] = A[i-2][y]+A[i-1][y]
-    print(A[i])
+A = [[i * j for j in range(1,11)] for i in range(1,11)]
 
-print(A)
+for row in A:
+    print(' '.join([str(elem) for elem in row]))
+
+
