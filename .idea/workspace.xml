@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ec7147b-d0f9-4cfb-b32a-0ca2d90cdbe3" name="Default Changelist" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Generateur.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux/liste1.py" afterPath="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux/liste1.py" />
+      <change beforePath="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux/liste2.py" afterPath="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux/liste2.py" />
+      <change beforePath="$PROJECT_DIR$/13.1- Exercice - Fonctions/fonction.py" afterPath="$PROJECT_DIR$/13.1- Exercice - Fonctions/fonction.py" />
+      <change beforePath="$PROJECT_DIR$/Generateur.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,21 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Generateur.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generateur.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fonction.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="fonction.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/13.1- Exercice - Fonctions/fonction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -45,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="liste2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="liste2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux/liste2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -74,8 +65,10 @@
         <option value="$PROJECT_DIR$/10.2- Exercice - Conditions/condition2.py" />
         <option value="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" />
         <option value="$PROJECT_DIR$/11.2- Exercice - Boucle/boucle2.py" />
-        <option value="$PROJECT_DIR$/Generateur.py" />
         <option value="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux/liste1.py" />
+        <option value="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux/liste2.py" />
+        <option value="$PROJECT_DIR$/13.1- Exercice - Fonctions/fonction.py" />
+        <option value="$PROJECT_DIR$/Generateur.py" />
       </list>
     </option>
   </component>
@@ -107,26 +100,6 @@
               <item name="introduction-python-anthonyberrut" type="b2602c69:ProjectViewProjectNode" />
               <item name="introduction-python-anthonyberrut" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="introduction-python-anthonyberrut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introduction-python-anthonyberrut" type="462c0819:PsiDirectoryNode" />
-              <item name="2- Introduction - Traitement de string" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introduction-python-anthonyberrut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introduction-python-anthonyberrut" type="462c0819:PsiDirectoryNode" />
-              <item name="12.1- Exercice - Listes et Tableaux" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introduction-python-anthonyberrut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introduction-python-anthonyberrut" type="462c0819:PsiDirectoryNode" />
-              <item name="12.2- Exercice - Listes et Tableaux" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introduction-python-anthonyberrut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introduction-python-anthonyberrut" type="462c0819:PsiDirectoryNode" />
-              <item name="13.1- Exercice - Fonctions" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -156,7 +129,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.liste1">
+  <component name="RunManager" selected="Python.fonction">
     <configuration name="Generateur" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,24 +143,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="IntroductionPython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Generateur.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="boucle1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11.1- Exercice - Boucle" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="IntroductionPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,19 +166,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="condition2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fonction" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10.2- Exercice - Conditions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13.1- Exercice - Fonctions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="IntroductionPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.2- Exercice - Conditions/condition2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13.1- Exercice - Fonctions/fonction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,20 +202,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="liste2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="IntroductionPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux/liste2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.condition2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.boucle1" />
-      <item index="2" class="java.lang.String" itemvalue="Python.boucle2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.liste1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Generateur" />
+      <item index="0" class="java.lang.String" itemvalue="Python.boucle2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.liste1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Generateur" />
+      <item index="3" class="java.lang.String" itemvalue="Python.liste2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.fonction" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.liste1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Generateur" />
-        <item index="2" class="java.lang.String" itemvalue="Python.boucle2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.boucle1" />
-        <item index="4" class="java.lang.String" itemvalue="Python.condition2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.fonction" />
+        <item index="1" class="java.lang.String" itemvalue="Python.liste2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.liste1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Generateur" />
+        <item index="4" class="java.lang.String" itemvalue="Python.boucle2" />
       </list>
     </recent_temporary>
   </component>
@@ -281,9 +254,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -453,22 +425,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/13.1- Exercice - Fonctions/fonction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generateur.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux/liste1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -479,8 +435,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux/liste2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generateur.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.1- Exercice - Fonctions/fonction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
